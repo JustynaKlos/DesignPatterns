@@ -10,7 +10,7 @@ namespace Builder.FluentBuilder
     {
         public BuilderHouse_B()
         {
-            house = new House("A");
+            house = new House("B");
         }
         public override BuilderHouse BuildBathroom()
         {
